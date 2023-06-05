@@ -23,6 +23,9 @@ This code performs analysis on a Walmart stock dataset using Spark. It utilizes 
 * Calculating the average "Close" price for each calendar month.
 * This code can be used as a starting point for analyzing and gaining insights from the Walmart stock dataset using Spark.
 
+### Dataset:
+* You can get the datasets from the kaggle :- <https://www.kaggle.com/> 
+
 ### Solution:
 * Scala-Spark :- <https://github.com/mohankrishna02/Walmart-Stock-Analysis-Spark/blob/main/ScalaSpark/pack/WalmartStockAnalysis.scala> <br>
 * PySpark :- <https://github.com/mohankrishna02/Walmart-Stock-Analysis-Spark/blob/main/PySpark/Walmart_Stock_Analysis.py>
